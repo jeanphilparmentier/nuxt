@@ -1,0 +1,33 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-style {
+  background-color: #00dc82;
+}
+
+ol,
+ul,
+menu {
+  list-style: none;
+  margin: 0;
+  padding: 0 !important;
+}
+
+.ul-desc li {
+  position: relative;
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.div-desc ul li::before {
+  content: "";
+  position: absolute;
+  left: 0px;
+  top: 0.6em;
+  width: 8px;
+  height: 8px;
+  background-color: #00dc82;
+  border-radius: 50%;
+} */
