@@ -3,7 +3,7 @@ const { data } = await useFetch('/api/hello')
 </script>
 
 <template>
-  <div class="container px-4 py-5 ml-auto mr-auto">
+  <div class="container px-4 py-5 ml-auto mr-auto min-h-[740px]">
     <h1 class="text-center text-4xl font-semibold mt-5 mb-10">
       Appel à une API simple
     </h1>

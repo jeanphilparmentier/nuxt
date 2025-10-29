@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="min-h-[580px]">
     <div
-      class="flex justify-center items-center mt-16 sm:mt-16 md:mt-14 lg:mt-16"
+      class="flex justify-center items-center mt-16 sm:mt-16 md:mt-14 lg:mt-16 xl:mt-40"
     >
       <img class="w-40" src="/img/icon-green.svg" alt="" />
     </div>
